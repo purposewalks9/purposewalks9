@@ -13,4 +13,4 @@ Python (for playing)
 https://www.purposewalker.name.ng/
 
 **Discord**
-username / purpos_e
+purpos_e
