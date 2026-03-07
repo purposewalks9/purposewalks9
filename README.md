@@ -1,4 +1,4 @@
-# HVAJYBI
+# Purpose walker
 
 Web Developer & Designer
 
@@ -10,7 +10,7 @@ React • TypeScript • PHP • Figma
 Python (for playing)
 
 **Portfolio**
-https://your-portfolio-link.com
+https://www.purposewalker.name.ng/
 
 **Discord**
-your_discord_username
+username / purpos_e
