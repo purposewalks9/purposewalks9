@@ -10,8 +10,7 @@ Creator of Raven 🐦‍⬛
   <img src="https://skillicons.dev/icons?i=ts,figma" />
 </p>
 
-React • TypeScript • PHP • Figma
-Python (for playing)
+TypeScript •  Figma
 
 **Portfolio**
 https://www.purposewalker.name.ng/
