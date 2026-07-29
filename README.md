@@ -1,9 +1,13 @@
 # Purpose walker
 
-Web Developer & Designer
+Programming Language Engineer
+
+Building the next generation of JavaScript tooling.
+
+Creator of Raven 🐦‍⬛
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,php,figma,python" />
+  <img src="https://skillicons.dev/icons?i=ts,figma" />
 </p>
 
 React • TypeScript • PHP • Figma
