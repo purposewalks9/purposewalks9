@@ -1,10 +1,7 @@
 # Purpose walker
 
-Programming Language Engineer
 
-Building the next generation of JavaScript tooling.
-
-Creator of Raven 🐦‍⬛
+Building Raven 🐦‍⬛
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,figma" />
