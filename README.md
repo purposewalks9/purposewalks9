@@ -1,4 +1,11 @@
-writing a compiler in typescript | 18 
-building : runic_labs  
+# README.md
+
+```txt
+writing a compiler in TypeScript
+18
+
+building: @runic_labs
 @vercel
- dreamer
+
+dreamer.exe
+```
