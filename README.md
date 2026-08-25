@@ -5,7 +5,6 @@ writing a compiler in TypeScript
 18
 
 building: @runic_labs
-@vercel
 
-dreamer.exe
+@vercel dreamer.exe
 ```
